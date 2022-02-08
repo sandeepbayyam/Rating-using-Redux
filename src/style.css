@@ -1,0 +1,14 @@
+h1, p {
+  font-family: Lato;
+}
+.betterview{
+  border:2px solid;
+  margin: 5px;
+  padding: 5px;
+}
+i{
+  font-size: xx-large;
+}
+.bi-star-fill{
+  color:rgb(214, 7, 7);
+}
